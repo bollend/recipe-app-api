@@ -127,6 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
 
 # keys
 /app/app/config.py
+=======
+>>>>>>> 10cdab98ef8588345a16197d6ed5c8cf99c81b2a
